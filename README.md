@@ -14,6 +14,14 @@ Great for:
 * Focusing reviews on volatile sections
 * Understanding code evolution over time
 
+## 🔍 Why This Tool Helps
+
+* Highlights risky code: Frequently changed lines are more likely to contain bugs.
+* Improves code reviews: Guides attention to unstable or error-prone areas.
+* Supports refactoring decisions: Identifies hot spots needing cleanup.
+* Aids debugging: Reveals commit history and change frequency per line.
+* Clarifies ownership: Helps trace contributors and stability of specific lines.
+
 ## 📦 Installation
 
 ### Using `use-package` (recommended)
